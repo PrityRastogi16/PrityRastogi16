@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrityRastogi16
+- 👋 Hi, I’m Prity Rastogi
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Frontend Development
 
