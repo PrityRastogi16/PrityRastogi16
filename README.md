@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Prity Rastogi
   
-- 👀 I’m interested in Full Stack Web Development
-  
-- 🌱 I’m currently learning Full Stack Development from Masai School
+- 🌱 I’m currently learning Java Backend Development from Masai School
 
 <!---
 PrityRastogi16/PrityRastogi16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
