@@ -9,7 +9,7 @@
 <!-- <a href="https://leetcode.com/Prity_Rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="sheeluofficial" height="30" width="40" /></a> -->
 </p>
 
-<br/><br/>
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
@@ -25,7 +25,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img margin="5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="50"/>
 </a>
-
+<br/>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrityRastogi16=dark&hide_border=false)
