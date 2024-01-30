@@ -9,7 +9,6 @@
 <!-- <a href="https://leetcode.com/Prity_Rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="sheeluofficial" height="30" width="40" /></a> -->
 </p>
 
-# 💻 Tech Stack:
 <br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
