@@ -26,6 +26,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img margin="5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="50"/>
 </a>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrityRastogi16=dark&hide_border=false)
