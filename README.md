@@ -24,7 +24,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img margin="5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img margin="5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/>
+  <img margin="5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="50"/>
 </a>
 # 📊 GitHub Stats:
 
