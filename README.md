@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
 
 <br/>
-👨‍💻 Visit my [Portfolio](https://PrityRastogi16.github.io/)
+👨‍💻 All of my projects are available at [Portfolio](https://PrityRastogi16.github.io/)
 
 # 📊 GitHub Stats:
 
