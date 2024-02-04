@@ -25,7 +25,8 @@
 
 ## 👨‍💻 Visit my [Portfolio](https://PrityRastogi16.github.io/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PrityRastogi16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrityRastogi16&label=Profile%20views&color=0e75b6&style=flat" alt="PRITY_RASTOGI" /> </p>
