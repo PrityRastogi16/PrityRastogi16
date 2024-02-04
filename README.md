@@ -16,6 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
 
 <br/>
+👨‍💻 Visit my [Portfolio](https://PrityRastogi16.github.io/)
 
 # 📊 GitHub Stats:
 
@@ -23,7 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrityRastogi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact))<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PrityRastogi16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-👨‍💻 Visit my [Portfolio](https://shraddha-gawde.github.io/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
