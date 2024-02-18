@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prity Rastogi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<hr>
+
+<h3 align="center">About me</h3>
 
 - 🔭 I’m currently working on **SocialSnap (Social Media Website)**
 
@@ -11,12 +15,10 @@
 
 - 📫 How to reach me **prityss7991@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;Node.js+Backend+Developer+⚡️;1200%2B+Hours+of+Coding+Experience+⚡️;500%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
-<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 
