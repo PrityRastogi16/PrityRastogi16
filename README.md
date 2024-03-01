@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrityRastogi16&label=Profile%20views&color=0e75b6&style=flat" alt="Prity Rastogi" /> </p>
  <img align="right" alt="coding" width="400" margin-bottom="-50px" src="https://camo.githubusercontent.com/e2f1962855098d77ac22977e9870ba19d43a10c3e46323a31e09727b68f8d37f/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132"/>
 
-<h3 align="center">About me</h3>
+<h2 align="left">About me</h2>
 
 - 🔭 I’m currently working on **SocialSnap (Social Media Website)**
 
@@ -19,7 +19,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/prity-rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prityOfficial" height="30" width="40" /></a>
