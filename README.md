@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrityRastogi16&theme=tokyonight&count_private=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrityRastogi16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact))<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrityRastogi16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PrityRastogi16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 👨‍💻 Visit my [Portfolio](https://PrityRastogi16.github.io/)
