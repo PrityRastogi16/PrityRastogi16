@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SocialSnap (Social Media Website)**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://prityrastogi16.github.io/](https://prityrastogi16.github.io/)
 
