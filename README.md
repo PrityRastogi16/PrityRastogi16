@@ -7,8 +7,6 @@
 <h2 align="left">About me</h2>
  <img align="right" alt="coding" width="350" height="230" marginTop="100" src="https://camo.githubusercontent.com/e2f1962855098d77ac22977e9870ba19d43a10c3e46323a31e09727b68f8d37f/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132"/>
 
-- 🔭 I’m currently working on **SocialSnap (Social Media Website)**
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://prityrastogi16.github.io/](https://prityrastogi16.github.io/)
